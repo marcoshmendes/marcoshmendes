@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Marcos
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=marcoshmendes)
 
 I am a Full Stack Web Developer specialised in JavaScript, utilising Node.js.
 
