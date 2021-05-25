@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Marcos
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/marcoshmendes)
+![](https://komarev.com/ghpvc/?username=marcoshmendes&color=brightgreen&style=flat.square&label=VISITORS)
 
 I am a Full Stack Web Developer specialised in JavaScript, utilising Node.js.
 
