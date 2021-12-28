@@ -2,11 +2,10 @@
 
 ![](https://komarev.com/ghpvc/?username=marcoshmendes&color=brightgreen&style=flat.square&label=VISITORS)
 
-I am a Full Stack Web Developer specialised in JavaScript, utilising Node.js.
+I am a Full Stack Web Developer specialised in JavaScript.
+With over 10 years of experience building apps for several business models, like RFID-Trackers/Commercial-Automation/Insurance/Health and others , I combine software engineering skills with an eye for business productivity and growth.
 
-With over 9 years of experience building apps for several business models like RFID-Trackers/Commercial-Automation/Insurance/Health and others , I combine software engineering skills with an eye for business productivity and growth.
-
-Skills: JS / VUE / REACT / ANGULAR / NODE / EXPRESS / SAILS / TAILWIND
+Main tech Skills: JS / VUE / REACT / ANGULAR / NODE / EXPRESS / SAILS / TAILWIND
 
 - 🔭 I’m currently working on a habit tracker, more things to come 
 - 📕 Reading the "Clean Architecture: A Craftsman's Guide to Software Structure" from Robert Cecil Martin
