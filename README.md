@@ -5,9 +5,9 @@
 I am a Full Stack Web Developer specialised in JavaScript.
 With over 10 years of experience building apps for several business models, like RFID-Trackers/Commercial-Automation/Insurance/Health and others , I combine software engineering skills with an eye for business productivity and growth.
 
-Main tech Skills: JS / VUE / REACT / ANGULAR / NODE / EXPRESS / SAILS / TAILWIND
+Main tech Skills: JAVASCRIPT / VUE / REACT / ANGULAR JS / NODE / MYSQL / TAILWIND
 
-- 🔭 I’m currently working on a habit tracker, more things to come 
+- 🔭 I’m currently working on [final-lap](https://github.com/marcoshmendes/final-lap)
 - 📕 Reading the "Clean Architecture: A Craftsman's Guide to Software Structure" from Robert Cecil Martin
 - contact: marcos.mendes@live.com
 
