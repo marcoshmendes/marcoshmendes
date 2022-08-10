@@ -2,6 +2,10 @@
 
 ![](https://komarev.com/ghpvc/?username=marcoshmendes&color=brightgreen&style=flat.square&label=VISITORS)
 
+Earn Free Credits on DigitalOcean clicking in my referral link bellow
+
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=851fc8568da9&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
 I am a Full Stack Web Developer specialised in JavaScript.
 With over 10 years of experience building apps for several business models, like RFID-Trackers/Commercial-Automation/Insurance/Health and others , I combine software engineering skills with an eye for business productivity and growth.
 
