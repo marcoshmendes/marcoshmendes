@@ -20,16 +20,16 @@ I am a software engineer and tech leader with **12+ years of professional experi
   - **Insurance:** Building robust platforms to streamline operations and improve client experiences.
   - **Government:** Delivering secure and scalable solutions for public administration and services.
   - **Consulting:** Providing strategic guidance and technical expertise to help businesses navigate complex technical challenges.
-- **Startup Experience:** As a co-founder of [SetMyTeam](https://www.setmyteam.com), my startup received multiple media mentions and recognition at the **Open 100 Startups** event. I understand the challenges and opportunities of building from the ground up.
+- **Startup Experience:** As a co-founder of Setupmyteam, my startup reached the **finals of the 100 Open Startups** program and was featured in several specialized media.
 - **DigitalOcean Organizer:** I served as a volunteer organizer for DigitalOcean in Brazil, where I helped build and engage with the developer community. I also had the privilege of collaborating with the DigitalOcean team in New York, delivering impactful talks and fostering connections across the global tech ecosystem.
-- **Notable Projects:** I've developed and launched products for some of Brazil’s most prominent professionals and businesses, contributing to their success with tailored software solutions.
+- **Success Projects:** I've developed and launched products for some of Brazil’s most prominent professionals and businesses in healthcare industry, contributing to their success with tailored software solutions.
 
 ---
 
 ### Current Activities
 
 - 🔭 I’m currently developing [Witchcraft](https://github.com/marcoshmendes/witchcraft), a project focused on creating innovative solutions for automating video dubbing using AI-powered technologies.
-- 📕 Writing a blog: https://mendesnotes.com
+- 📕 Writing a blog: [Mendes Notes](https://mendesnotes.com)
 - 💡 Exploring new ways to align technology with business growth.
 ---
 
