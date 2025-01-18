@@ -30,6 +30,7 @@ I am a software engineer and tech leader with **12+ years of professional experi
 
 - 🔭 I’m currently developing [Witchcraft](https://github.com/marcoshmendes/witchcraft), a project focused on creating innovative solutions for automating video dubbing using AI-powered technologies.
 - 📕 Writing a blog: [Mendes Notes](https://mendesnotes.com)
+- 🎸 Sharing my passion for music on my [Guitar YouTube Channel](https://www.youtube.com/@theunfamousmusician)  
 - 💡 Exploring new ways to align technology with business growth.
 ---
 
