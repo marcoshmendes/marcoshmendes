@@ -4,7 +4,7 @@ I am a software engineer and tech lead with 13+ years of professional experience
 
 Throughout my career, I’ve refused to be just another name on the roster. In every organization I’ve been a part of, I’ve made a meaningful impact—whether by elevating companies to new heights, delivering products that have stood the test of time, or empowering teams to achieve their full potential. My journey has been one of creating value that lasts, leaving behind not just results but a legacy of growth and collaboration.
 
-### 🔐 My PGP Public Key
+### My PGP Public Key
 
 If you'd like to verify my signed messages or send me encrypted content, here's my PGP public key:
 
