@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Marcos
 
-I am a software engineer and tech leader with 12+ years of professional experience, driven by a passion for inspiring those around me and fostering exceptional work environments. My goal as a leader is to create not just high-performing teams, but also strong human connections, built on friendship, trust, and mutual respect. I believe that cultivating a positive culture leads to teams that are both passionate about their work and relentless in their pursuit of excellence.
+I am a software engineer and tech lead with 13+ years of professional experience, driven by a passion for inspiring those around me and fostering exceptional work environments. My goal as a leader is to create not just high-performing teams, but also strong human connections, built on friendship, trust, and mutual respect. I believe that cultivating a positive culture leads to teams that are both passionate about their work and relentless in their pursuit of excellence.
 
 Throughout my career, I’ve refused to be just another name on the roster. In every organization I’ve been a part of, I’ve made a meaningful impact—whether by elevating companies to new heights, delivering products that have stood the test of time, or empowering teams to achieve their full potential. My journey has been one of creating value that lasts, leaving behind not just results but a legacy of growth and collaboration.
 
@@ -60,6 +60,9 @@ Kg5tAPa+DXs9TrnO2tlwvqQMWhmKIjWcc9AxnJnSz3JNRxancc9qwq7n2Xivtupb
 fl52b4e++rqnbuJxtprYvs/8uVsP
 =xcxA
 -----END PGP PUBLIC KEY BLOCK-----
+
+**Email:** marcos.mendes@live.com  
+**Fingerprint:** `003A 8B5A 198E 2F97 7588  CBC6 52F0 46BC 1199 C42F` 
 
 ---
 
