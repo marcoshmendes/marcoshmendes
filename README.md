@@ -28,6 +28,8 @@
   as an expandable tree.
   - 🤖 **[Discord Persona](https://github.com/marcoshmendes/discord-persona)** — an open-source agent
   with its own personality, memory, and boundaries.
+- 🧩 **[Outlook Ad Blocker](https://chromewebstore.google.com/detail/outlook-ad-blocker/hpgeocgakdijfp
+  hkiakppebifapgclkc)** — a Chrome extension that strips the ads out of your Outlook inbox.
   - ✍️ **[mendescraft.com](https://mendescraft.com)** — where I write about technology, ideas, and the
   craft of building things.
   - 🎸 And on the side, I play guitar:
