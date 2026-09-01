@@ -12,7 +12,7 @@
 
   ### What drives me
 
-  I want to be known as a dreamer. I'm curious about almost everything, and I study far beyond my field.
+ I'm curious about almost everything, and I study far beyond my field.
   I love biology, and I'm fascinated by the human genome, how a few letters carry a whole person. My
   real ambition is to work on problems that no one has solved yet, the hard, open, unglamorous ones, and
   to leave things better than I found them.
