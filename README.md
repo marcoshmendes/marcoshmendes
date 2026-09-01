@@ -1,55 +1,47 @@
-### Hi there 👋 I'm Marcos
+### Hi, I'm Marcos 👋
 
-I am a software engineer and tech lead with 13+ years of professional experience, driven by a passion for inspiring those around me and fostering exceptional work environments. My goal as a leader is to create not just high-performing teams, but also strong human connections, built on friendship, trust, and mutual respect. I believe that cultivating a positive culture leads to teams that are both passionate about their work and relentless in their pursuit of excellence.
+  I'm a dreamer who happens to build software.
 
-Throughout my career, I’ve refused to be just another name on the roster. In every organization I’ve been a part of, I’ve made a meaningful impact—whether by elevating companies to new heights, delivering products that have stood the test of time, or empowering teams to achieve their full potential. My journey has been one of creating value that lasts, leaving behind not just results but a legacy of growth and collaboration.
+  For 14+ years I've been an engineer and engineering leader, taking products from an idea to something
+  real and used, across insurance, healthcare, industrial systems, and more. I care less about any
+  single technology and more about the shape of a problem: how it works, why it resists being solved,
+  and what it would take to actually solve it. Currently Head of Engineering at Vencorr, remote from
+  Brazil.
 
-### My PGP Public Key
+  But engineering is just one language I use to chase the same thing everywhere: understanding.
 
-If you'd like to verify my signed messages or send me encrypted content, here's my PGP public key:
+  ### What drives me
 
-https://keys.openpgp.org/search?q=marcos.mendes%40live.com
+  I want to be known as a dreamer. I'm curious about almost everything, and I study far beyond my field.
+  I love biology, and I'm fascinated by the human genome, how a few letters carry a whole person. My
+  real ambition is to work on problems that no one has solved yet, the hard, open, unglamorous ones, and
+  to leave things better than I found them.
 
-**Email:** marcos.mendes@live.com  
-**Fingerprint:** `003A 8B5A 198E 2F97 7588  CBC6 52F0 46BC 1199 C42F` 
+  I believe good work is built on good relationships, on trust, friendship, and respect. The best teams
+  I've been part of were high-performing because the people in them actually cared about each other.
 
----
+  ### Things I've made
 
-### About Me
+  - 🔐 **[Coconui](https://usecoconui.com)** — encrypted note sharing, designed so the secrets never
+  leave your browser unprotected.
+  - 🕸️ **[urltree](https://urltree.wiki)** — search the web as a link graph, with each site's sub-URLs
+  as an expandable tree.
+  - 🤖 **[Discord Persona](https://github.com/marcoshmendes/discord-persona)** — an open-source agent
+  with its own personality, memory, and boundaries.
+  - ✍️ **[mendescraft.com](https://mendescraft.com)** — where I write about technology, ideas, and the
+  craft of building things.
+  - 🎸 And on the side, I play guitar:
+  [@theunfamousmusician](https://www.youtube.com/@theunfamousmusician).
 
-- **Leadership & Team Management:** I’ve successfully led cross-functional teams, mentoring developers, designers, data analysts, and other professionals, while fostering a culture of continuous improvement. My focus is on creating high-performing teams that deliver impactful results.
-- **Executive Collaboration & Public Speaking:** I’ve consistently worked alongside company owners, founders, and executive boards, contributing to strategic decision-making in committees and councils. My role has included representing companies at events, presenting projects, and showcasing products in a clear and engaging way. I have also spoken to investors during events, demonstrating a precise and effective communication style that bridges technical details with business goals.
-- **Product Delivery Expertise:** I have extensive experience bringing software products to market, from MVPs to large-scale platforms. I’ve collaborated with clients, stakeholders, and executive boards to ensure business alignment and technical excellence.
-- **Embedded Systems & IoT:** I have hands-on expertise in developing embedded software for **radio antennas**, **car gate barriers in parking lots**, **handheld readers**, and **RFID (Radio Frequency Identification)** technologies. These systems have been implemented across industries like logistics, access control, automation, and the food industry.
-- **Industry Experience:** My career spans several sectors, including:
-  - **Healthcare:** Developing tailored software solutions for critical systems in the medical field.
-  - **Insurance:** Building robust platforms to streamline operations and improve client experiences.
-  - **Government:** Delivering secure and scalable solutions for public administration and services.
-  - **Consulting:** Providing strategic guidance and technical expertise to help businesses navigate complex technical challenges.
-  - **Automation:** Implementing innovative solutions within the food industry, including meat processing plants, grape farms, and asset inventory management.
-- **Startup Experience:** As a co-founder of Setupmyteam, my startup reached the **finals of the 100 Open Startups** program and was featured in several specialized media.
-- **DigitalOcean Organizer:** I served as a volunteer organizer for DigitalOcean in Brazil, where I helped build and engage with the developer community. I also had the privilege of collaborating with the DigitalOcean team in New York, delivering impactful talks and fostering connections across the global tech ecosystem.
-- **Success Projects:** I've developed and launched products for some of Brazil’s most prominent professionals and businesses in healthcare industry, contributing to their success with tailored software solutions.
-- **Open Innovation Projects:** I have led multiple open innovation initiatives in partnership with the Austral Group Experiential Learning team, collaborating with MBA students from universities around the world. These projects focused on creating projections, improving business models, and generating innovative ideas to drive company growth and competitiveness.
+  ### A bit of range
 
----
+  I started out close to the metal, with embedded systems: RFID readers, radio antennas, and
+  access-control gates deployed in logistics, food production, and government. From there to distributed
+  cloud systems and AI, the throughline has always been the same curiosity about how things work.
 
-### Current Activities
+  ### PGP
 
-- 🔭 I’m currently developing [Witchcraft](https://github.com/marcoshmendes/witchcraft), a project focused on creating innovative solutions for automating video dubbing using AI-powered technologies.
-- 📕 Writing a blog: [Mendes Notes](https://mendesnotes.com)
-- 🎸 Sharing my passion for music on my [Guitar YouTube Channel](https://www.youtube.com/@theunfamousmusician)
-- 🖥️ Building my own home server using TrueNAS Scale for data storage, streaming, VPN and more and much more.
-- 💡 Exploring new ways to align technology with business growth.
----
+  To verify my signed messages or send me something encrypted:
 
-### Connect With Me
-
-- 📧 Email: marcos.mendes@live.com
-- 📧 Linkedin: https://www.linkedin.com/in/marcoshmendes/
-
-![](https://komarev.com/ghpvc/?username=marcoshmendes&color=brightgreen&style=flat.square&label=VISITORS)
-
-Earn Free Credits on DigitalOcean clicking in my referral link below:
-
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=851fc8568da9&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+  - **Key:** [keys.openpgp.org](https://keys.openpgp.org/search?q=marcos.mendes%40live.com)
+  - **Fingerprint:** `003A 8B5A 198E 2F97 7588 CBC6 52F0 46BC 1199 C42F`
