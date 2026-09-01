@@ -2,15 +2,15 @@
 
 I'm a dreamer who happens to build software.
 
-For 14+ years I've been an engineer and engineering leader, taking products from an idea to something real and used, across insurance, healthcare, industrial systems, and more. I care less about any single technology and more about the shape of a problem: how it works, why it resists being solved, and what it would take to actually solve it. Currently Head of Engineering at Vencorr, remote from Brazil.
+For 14+ years I've been an engineer and engineering leader across insurance, healthcare, industrial systems, government, and access control. I care less about any single technology and more about the shape of a problem: how it works, why it resists being solved, and what it would take to actually solve it. Currently Head of Engineering at Vencorr, remote from Brazil.
 
 But engineering is just one language I use to chase the same thing everywhere: understanding.
 
 ### What drives me
 
-I want to be known as a dreamer. I'm curious about almost everything, and I study far beyond my field. I love biology, and I'm fascinated by the human genome, how a few letters carry a whole person. My real ambition is to work on problems that no one has solved yet, the hard, open, unglamorous ones, and to leave things better than I found them.
+I'm curious about almost everything, and I study far beyond my field. I love biology, and I'm fascinated by the human genome, how a few letters carry a whole person. My real ambition is to work on problems that no one has solved yet, the hard, open, unglamorous ones, and to leave things better than I found them.
 
-I believe good work is built on good relationships, on trust, friendship, and respect. The best teams I've been part of were high-performing because the people in them actually cared about each other.
+> Be ashamed to die until you have won some victory for humanity.
 
 ### Things I've made
 
