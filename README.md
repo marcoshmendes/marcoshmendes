@@ -1,3 +1,5 @@
+<img src="./profile-collage.jpg" alt="Marcos Mendes speaking at events" width="100%">
+
 ### Hi, I'm Marcos 👋
 
 I'm a dreamer who happens to build software.
