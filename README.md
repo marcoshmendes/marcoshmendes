@@ -1,4 +1,4 @@
-<img src="./profile-collage.jpg" alt="Marcos Mendes speaking at events" width="100%">
+<img src="https://raw.githubusercontent.com/marcoshmendes/marcoshmendes/main/profile-collage.jpg" alt="Marcos Mendes speaking at events" width="100%">
 
 ### Hi, I'm Marcos 👋
 
