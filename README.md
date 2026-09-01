@@ -22,13 +22,13 @@
 
   ### Things I've made
 
-  - 🔐 **[Coconui](https://usecoconui.com)** — encrypted note sharing, designed so the secrets never
+- 🔐 **[Coconui](https://usecoconui.com)** — encrypted note sharing, designed so the secrets never
   leave your browser unprotected.
   - 🕸️ **[urltree](https://urltree.wiki)** — search the web as a link graph, with each site's sub-URLs
   as an expandable tree.
   - 🤖 **[Discord Persona](https://github.com/marcoshmendes/discord-persona)** — an open-source agent
   with its own personality, memory, and boundaries.
-- 🧩 **[Outlook Ad Blocker](https://chromewebstore.google.com/detail/outlook-ad-blocker/hpgeocgakdijfp
+  - 🧩 **[Outlook Ad Blocker](https://chromewebstore.google.com/detail/outlook-ad-blocker/hpgeocgakdijfp
   hkiakppebifapgclkc)** — a Chrome extension that strips the ads out of your Outlook inbox.
   - ✍️ **[mendescraft.com](https://mendescraft.com)** — where I write about technology, ideas, and the
   craft of building things.
