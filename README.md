@@ -21,6 +21,7 @@ I'm curious about almost everything, and I study far beyond my field. I love bio
 - 🤖 **[Discord Persona](https://github.com/marcoshmendes/discord-persona)** — an open-source agent with its own personality, memory, and boundaries.
 - 🧩 **[Outlook Ad Blocker](https://chromewebstore.google.com/detail/outlook-ad-blocker/hpgeocgakdijfphkiakppebifapgclkc)** — a Chrome extension that strips the ads out of your Outlook inbox.
 - ✍️ **[mendescraft.com](https://mendescraft.com)** — where I write about technology, ideas, and the craft of building things.
+- 📝 **[mendesnotes.com](https://mendesnotes.com)** — my personal blog.
 - 🎸 And on the side, I play guitar: [@theunfamousmusician](https://www.youtube.com/@theunfamousmusician).
 
 ### A bit of range
