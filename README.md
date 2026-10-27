@@ -4,7 +4,7 @@
 
 I'm a dreamer who happens to build software.
 
-For 14+ years I've been an engineer and engineering leader across insurance, healthcare, industrial systems, government, and access control. I care less about any single technology and more about the shape of a problem: how it works, why it resists being solved, and what it would take to actually solve it. Currently Head of Engineering at Vencorr, remote from Brazil.
+For 15 years I've been an engineer and engineering leader across insurance, healthcare, industrial systems, government, and access control. I care less about any single technology and more about the shape of a problem: how it works, why it resists being solved, and what it would take to actually solve it. Currently Head of Engineering at Vencorr, remote from Brazil.
 
 But engineering is just one language I use to chase the same thing everywhere: understanding.
 
