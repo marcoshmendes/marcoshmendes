@@ -17,7 +17,7 @@ I'm curious about almost everything, and I study far beyond my field. I love bio
 ### Things I've made
 
 - 🔐 **[Coconui](https://usecoconui.com)** — encrypted note sharing, designed so the secrets never leave your browser unprotected.
-- 🕸️ **[urltree](https://urltree.wiki)** — search the web as a link graph, with each site's sub-URLs as an expandable tree.
+- 🎵 **[TrackBook](https://trackbook.app)** — the music album you fill by playing: musicians stick their own YouTube videos into each slot and complete the album, one instrument at a time.
 - 🤖 **[Discord Persona](https://github.com/marcoshmendes/discord-persona)** — an open-source agent with its own personality, memory, and boundaries.
 - 🧩 **[Outlook Ad Blocker](https://chromewebstore.google.com/detail/outlook-ad-blocker/hpgeocgakdijfphkiakppebifapgclkc)** — a Chrome extension that strips the ads out of your Outlook inbox.
 - ✍️ **[mendescraft.com](https://mendescraft.com)** — where I write about technology, ideas, and the craft of building things.
